@@ -18,10 +18,10 @@ This script allows you to set up a Mycelium cluster for one control node and mul
 
 ```bash
 # Download the script
-wget https://raw.githubusercontent.com/Mik-TF/mycelium_cluster/refs/heads/main/mycelium_cluster.sh
+wget https://raw.githubusercontent.com/ucli-tools/mcluster/refs/heads/main/mcluster.sh
 
 # Run the script
-bash ./mycelium_cluster.sh
+bash ./mcluster.sh
 ```
 
 ## Contributing
